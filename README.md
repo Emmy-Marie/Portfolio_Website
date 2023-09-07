@@ -1,5 +1,4 @@
 # Portfolio_Website
-This repo is all about my portfolio website
 
 Welcome to my portfolio website repository on GitHub! This repository serves as the central hub for developing and hosting my personal portfolio website. In this README.md file, I'll provide an overview of the project, its purpose, and instructions for setting it up.
 
